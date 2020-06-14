@@ -1,4 +1,5 @@
 import React from 'react';
+import 'rc-slider/assets/index.css';
 import './App.css';
 import seedColors from './seedColors'
 import Palette from './components/Palette'
