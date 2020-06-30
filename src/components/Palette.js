@@ -4,8 +4,6 @@ import {generatePalette} from '../colorHelpers';
 import NavBar from './NavBar';
 
 
-
-
 class Palette extends Component {
     constructor(props){
         super(props);
